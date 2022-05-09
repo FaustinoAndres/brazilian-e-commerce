@@ -7,6 +7,7 @@
 3. [Transform (Clean/Preprocessing)](#transform)
 4. [Load](#load)
 5. [Analysis](#analysis)
+6. [About](#About)
 
 ## <a name="raw_data"></a> Raw Data
 
@@ -105,3 +106,22 @@ or Month sales per year
 For more analysis you can consult:
 
 [Visualization Folder](./notebooks/visualization/)
+
+## <a name="About"></a> About
+
+project carried out by the data monitoring team for the Platzi master program.
+
+The members of the squad are:
+
+- [FaustinoAndres](https://github.com/FaustinoAndres)
+- [yonierandres](https://github.com/yonierandres)
+- [marcocarmonaga](https://github.com/marcocarmonaga)
+- [katlheenkrautz](https://github.com/katlheenkrautz)
+- [Giocrisrai](https://github.com/Giocrisrai)
+- [YufniCastro](https://github.com/YufniCastro)
+- [jerrycda](https://github.com/jerrycda)
+- [johancordobahoyos](https://github.com/johancordobahoyos)
+- [NataVilla](https://github.com/NataVilla)
+- [JaimeFalconSolis](https://github.com/JaimeFalconSolis)
+- [roruizf](https://github.com/roruizf)
+
